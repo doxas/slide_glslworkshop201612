@@ -155,6 +155,12 @@ JavaScript などの CPU 上で動作するアプリケーション本体は、�
 
 #### フロントエンド風 GLSL 解説
 
+img
+
+---
+
+#### フロントエンド風 GLSL 解説
+
 そして、頂点シェーダは CSS で言うところの `display` や `position` や `width`、`height` に相当する部分を担当します。
 
 つまり「どこに表示するか」とか「どんな大きさで描く」とか、そういうことを制御するのが頂点シェーダの役割です。
@@ -166,6 +172,12 @@ JavaScript などの CPU 上で動作するアプリケーション本体は、�
 一方でフラグメントシェーダは、CSS なら `background-color` や `color`、`opacity` などに相当すると言えるでしょう。
 
 「どんな色を表示するか」といったような、見た目に大きく影響してくる処理を行うのがフラグメントシェーダの役割です。
+
+---
+
+#### フロントエンド風 GLSL 解説
+
+img
 
 ---
 
@@ -402,6 +414,10 @@ JavaScript（つまりアプリケーション）から毎フレーム送られ�
 * <a href="http://pixelshaders.com/">Pixel Shaders</a> (解説付きだけど英語)
 * <a href="https://thebookofshaders.com/">The Book of Shaders</a> (有志による日本語訳も)
 * <a href="https://wgld.org/d/glsl/">wgld.org | GLSL |</a> (著者はシェーダが好きらしいです)
+
+---
+
+#### 
 
 ---
 
