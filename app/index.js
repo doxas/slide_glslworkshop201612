@@ -4,13 +4,18 @@ module.exports = {
         var i, j, k, l;
         var tag, content, source, dest, page;
         if(md == null || typeof md !== 'string'){return null;}
+        source = md.replace(/\r/g, '');
         source = md.replace(/\t/g, '');
         while(md.match(/\*\*[^\*]+\*\*/)){
             md = md.replace(/\*\*/, '<strong>');
             md = md.replace(/\*\*/, '</strong>');
         }
         source = md.match(/\*[^\*]+\*/g);
-        source = md.split('\n');
+        if(md.match(/\r\n/)){
+            source = md.split(/\r\n/);
+        }else{
+            source = md.split(/\n/);
+        }
         if(source.length === 0){return null;}
         dest = [];
         for(i = 0, j = source.length; i < j; i++){
