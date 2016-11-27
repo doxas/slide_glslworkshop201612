@@ -215,7 +215,7 @@ img
 
 手前味噌で恐縮ですが、私が実装したオンラインで GLSL を記述することができるエディタがありますので、そちらを使いましょう。
 
-<a href="http://school.souhonzan.org/gem/" target="_blank">GLSL editor</a> http://school.souhonzan.org/gem/
+<a href="https://doxas.org/work/glsl_editor/" target="_blank">GLSL editor</a>(https://doxas.org/work/glsl_editor/)
 
 ---
 
@@ -443,7 +443,9 @@ JavaScript（つまりアプリケーション）から毎フレーム送られ�
 
 また、作品上映を今回のワークショップの最後に行いたいと思っています。
 
-作品の提出は > ここ詳細決まったら書く
+作品の提出は専用の投稿サイトを突貫で作ったので、ここから行えます。
+
+<a href="https://glglgl.org/root.html" target="_blank">glglgl ログインフォーム</a>
 
 ---
 
