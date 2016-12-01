@@ -414,12 +414,12 @@ JavaScript（つまりアプリケーション）から毎フレーム送られ�
 
 #### GLSL シェーダアート参考サイト
 
-* <a href="http://glslsandbox.com/">GLSL Sandbox Gallery</a> (超定番)
-* <a href="https://www.shadertoy.com/">Shadertoy BETA</a> ( *高負荷超注意* )
-* <a href="http://www.demoscene.jp/?p=1147">GLSLで簡単2Dエフェクト « demoscene.jp</a> (うれしい日本語)
-* <a href="http://pixelshaders.com/">Pixel Shaders</a> (解説付きだけど英語)
-* <a href="https://thebookofshaders.com/">The Book of Shaders</a> (有志による日本語訳も)
-* <a href="https://wgld.org/d/glsl/">wgld.org | GLSL |</a> (著者はシェーダが好きらしいです)
+* <a target="_blank" href="http://glslsandbox.com/">GLSL Sandbox Gallery</a> (超定番)
+* <a target="_blank" href="https://www.shadertoy.com/">Shadertoy BETA</a> ( *高負荷超注意* )
+* <a target="_blank" href="http://www.demoscene.jp/?p=1147">GLSLで簡単2Dエフェクト « demoscene.jp</a> (うれしい日本語)
+* <a target="_blank" href="http://pixelshaders.com/">Pixel Shaders</a> (解説付きだけど英語)
+* <a target="_blank" href="https://thebookofshaders.com/">The Book of Shaders</a> (有志による日本語訳も)
+* <a target="_blank" href="https://wgld.org/d/glsl/">wgld.org | GLSL |</a> (著者はシェーダが好きらしいです)
 
 ---
 
