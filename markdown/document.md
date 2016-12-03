@@ -465,4 +465,56 @@ JavaScript（つまりアプリケーション）から毎フレーム送られ�
 
 ---
 
+---
+
+#### 
+
+---
+
+#### GLSL Advent Calendar
+
+GLSL Advent Calendar もあるので、よかったら今日得た知見や驚きをみなさんも記事にしてみましょう！
+
+<a href="http://qiita.com/advent-calendar/2016/glsl" target="_blank">GPU で暖を取りたい人のための GLSL Advent Calendar 2016 - Qiita</a>
+
+---
+
+#### TokyoDemoFest
+
+毎年開催している、日本で唯一のデモパーティです。
+
+ハイエンドな 3DCG 作品が毎年たくさん公開され、セミナー等も行われます。
+
+<a href="https://www.shadertoy.com/view/MsGGDK" target="_blank">2nd stage BOSS by 0x4015</a>
+
+<span class="capt">今年の TDF 優勝作品……の移植。</span>
+
+---
+
+#### TokyoDemoFest
+
+ついさっき、来年のサイトできたそうです！
+
+<a href="http://tokyodemofest.jp/2017/" target="_blank">http://tokyodemofest.jp/2017/</a>
+
+---
+
+#### GLSL 勉強会？
+
+もし要望が多ければ、2月くらいに……
+
+---
+
+#### 
+
+---
+
+
+
+
+
+
+
+
+
 
